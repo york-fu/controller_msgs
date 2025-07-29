@@ -1,0 +1,5 @@
+string name
+---
+int8 data
+bool success
+string message
